@@ -2,7 +2,7 @@
 
 ## ツリーをCSV出力するサンプル
 
-```
+```python
 import csv
 import pycadsx
 
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
 ## パーツを追加するサンプル
 
-```
+```python
 import pycadsx
 
 def main():
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 ## PySide6のQTreeViewにツリーを表示するサンプル
 
-```
+```python
 from PySide6 import QtWidgets, QtGui
 import pycadsx
 
